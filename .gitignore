@@ -1,7 +1,12 @@
 style.css
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 img/
 index.html
+=======
+img/*
+index.html
+>>>>>>> Stashed changes
 =======
 img/*
 index.html
